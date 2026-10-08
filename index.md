@@ -1,7 +1,9 @@
+
 ---
-title: My Engineering Portfolio
 layout: default
+title: Home
 ---
+
 # Welcome to My Portfolio
 
 I am an engineering student at the University of Connecticut.
@@ -10,6 +12,11 @@ I am an engineering student at the University of Connecticut.
 
 This website showcases my education, projects, skills, and experiences.
 
-## Blog
+## Blog Posts
 
-Read about my learning experiences and projects.
+{% for post in site.posts %}
+### [{{ post.title }}]({{ post.url | relative_url }})
+
+{{ post.excerpt }}
+
+{% endfor %}
