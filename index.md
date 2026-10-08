@@ -1,3 +1,4 @@
 ---
-My Engineering Portfolio
+title: My Engineering Portfolio
+layout: default
 ---
