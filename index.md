@@ -6,11 +6,11 @@ title: Home
 
 # Welcome to My Portfolio
 
-I am an engineering student at the University of Connecticut with an interest in problem-solving, mathematics, physics, and applying engineering concepts to real-world challenges.
+I am an engineering student at the University of Connecticut.
 
 ## About Me
 
-This portfolio showcases my education, technical skills, and projects as I continue developing my experience as an engineer. I look forward to gaining hands-on experience and preparing for future internship opportunities.
+This website showcases my education, projects, skills, and experiences.
 
 ## Blog Posts
 
